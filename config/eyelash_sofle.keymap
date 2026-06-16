@@ -105,8 +105,8 @@
             >;
 
             sensor-bindings = <&rsr_vol &rsr_trans>;
-            label = "(- . -)";
-            display-name = "layer1";
+            label = "(-.-)";
+            display-name = "(-.-)";
         };
 
         setting {
