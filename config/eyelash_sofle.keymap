@@ -91,7 +91,6 @@
             >;
 
             sensor-bindings = <&rsr_vol &rsr_trans>;
-            display-name = "LAYER0";
             label = "(' . ')";
         };
 
@@ -104,7 +103,6 @@
 &kp C_MUTE    &to 3            &trans          &trans           &trans           &trans             &mkp LCLK        &trans           &trans           &kp EQUAL   &trans     &trans
             >;
 
-            display-name = "layer1";
             sensor-bindings = <&rsr_vol &rsr_trans>;
             label = "(- . -)";
         };
