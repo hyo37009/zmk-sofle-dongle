@@ -73,8 +73,8 @@
         compatible = "zmk,combos";
 
         softoff {
-            bindings = <&soft_off>;
-            key-positions = <14 28 40>;
+            bindings = <&kp LANG1>;
+            key-positions = <35 34>;
         };
     };
 
