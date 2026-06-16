@@ -57,7 +57,7 @@ layers:
   - LEFT WIN
   - PLAY PAUSE
   - $$mdi:apple-keyboard-option$$
-  - layer1
+  - (-.-)
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:backspace$$', type: backspace}
@@ -65,7 +65,7 @@ layers:
   - {t: '-', s: _}
   - setting
   - $$mdi:backspace-reverse-outline$$
-  layer1:
+  (-.-):
   - {t: '`', s: '~'}
   - F1
   - F2
