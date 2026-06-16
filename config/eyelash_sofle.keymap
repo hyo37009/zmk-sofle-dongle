@@ -72,16 +72,21 @@
     combos {
         compatible = "zmk,combos";
 
-        softoff {
+        hangle_w {
             bindings = <&kp LANG1>;
             key-positions = <35 34>;
+        };
+
+        hangle_m {
+            bindings = <&kp CAPS>;
+            key-positions = <35 36>;
         };
     };
 
     keymap {
         compatible = "zmk,keymap";
 
-        layer0 {
+        ff {
             bindings = <
 &kp ESC         &kp N1        &kp N2            &kp N3        &kp N4  &kp N5       &kp UP_ARROW     &kp N6         &kp N7     &kp N8     &kp N9   &kp N0      &out OUT_TOG
 &kp TAB         &kp Q         &kp W             &kp E         &kp R   &kp T        &kp DOWN_ARROW   &kp Y          &kp U      &kp I      &kp O    &kp P       &kp BSLH
