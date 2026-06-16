@@ -78,7 +78,7 @@
         };
 
         hangle_m {
-            bindings = <&kp LEFT_COMMAND>;
+            bindings = <&kp LC(SPACE)>;
             key-positions = <35 36>;
         };
     };
