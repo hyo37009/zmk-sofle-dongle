@@ -652,6 +652,10 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="686" y="130" width="28" height="26" class="combo"/>
 <text x="700" y="144" class="combo tap">LANG1</text>
 </g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="742" y="130" width="28" height="26" class="combo"/>
+<use href="#mdi:apple-keyboard-caps" xlink:href="#mdi:apple-keyboard-caps" x="747" y="134" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-caps"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 388)" class="layer-(-.-)">
@@ -1017,6 +1021,10 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="686" y="130" width="28" height="26" class="combo"/>
 <text x="700" y="144" class="combo tap">LANG1</text>
 </g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="742" y="130" width="28" height="26" class="combo"/>
+<use href="#mdi:apple-keyboard-caps" xlink:href="#mdi:apple-keyboard-caps" x="747" y="134" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-caps"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 776)" class="layer-setting">
@@ -1362,6 +1370,10 @@ rect.held, rect.combo.held {
 <rect rx="6" ry="6" x="686" y="130" width="28" height="26" class="combo"/>
 <text x="700" y="144" class="combo tap">LANG1</text>
 </g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="742" y="130" width="28" height="26" class="combo"/>
+<use href="#mdi:apple-keyboard-caps" xlink:href="#mdi:apple-keyboard-caps" x="747" y="134" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-caps"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1165)" class="layer-TETRIS!!">
@@ -1692,6 +1704,10 @@ rect.held, rect.combo.held {
 <g class="combo combopos-0">
 <rect rx="6" ry="6" x="686" y="130" width="28" height="26" class="combo"/>
 <text x="700" y="144" class="combo tap">LANG1</text>
+</g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="742" y="130" width="28" height="26" class="combo"/>
+<use href="#mdi:apple-keyboard-caps" xlink:href="#mdi:apple-keyboard-caps" x="747" y="134" height="18" width="18.0" class="combo tap glyph mdi:apple-keyboard-caps"/>
 </g>
 </g>
 </g>

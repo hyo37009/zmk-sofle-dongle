@@ -263,3 +263,5 @@ layers:
 combos:
 - p: [35, 34]
   k: LANG1
+- p: [35, 36]
+  k: $$mdi:apple-keyboard-caps$$
