@@ -1,6 +1,6 @@
 layout: {zmk_keyboard: eyelash_sofle}
 layers:
-  (' . '):
+  ('.'):
   - $$mdi:keyboard-esc$$
   - {t: '1', s: '!'}
   - {t: '2', s: '@'}
@@ -57,7 +57,7 @@ layers:
   - LEFT WIN
   - PLAY PAUSE
   - $$mdi:apple-keyboard-option$$
-  - (- . -)
+  - (-.-)
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:backspace$$', type: backspace}
@@ -65,7 +65,7 @@ layers:
   - {t: '-', s: _}
   - setting
   - $$mdi:backspace-reverse-outline$$
-  (- . -):
+  (-.-):
   - {t: '`', s: '~'}
   - F1
   - F2
@@ -196,7 +196,7 @@ layers:
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   TETRIS!!:
-  - {t: (' . '), h: toggle}
+  - {t: ('.'), h: toggle}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
